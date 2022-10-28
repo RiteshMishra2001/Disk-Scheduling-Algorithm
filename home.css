@@ -1,0 +1,27 @@
+table{
+    padding: 20px;
+}
+
+li {
+    padding: 10px;
+}
+td img{
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+}
+th img{
+    height: 200px;
+    width: 666.8px;
+    margin:15px;
+}
+body{
+    background-image: url(background.jpg);
+}
+div{
+    position:center;
+    margin-left: 28%;
+    margin-right: 28%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
